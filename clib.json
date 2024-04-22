@@ -1,0 +1,11 @@
+{
+    "name": "ctl",
+    "version": "0.0.1",
+    "repo": "rurban/ctl",
+    "description": "My variant of the C Template Library",
+    "license": "MIT",
+    "src": [
+        "ctl"
+    ]
+}
+
