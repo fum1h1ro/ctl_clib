@@ -5,7 +5,7 @@
     "description": "My variant of the C Template Library",
     "license": "MIT",
     "src": [
-        "ctl"
+        "ctl/ctl.h"
     ]
 }
 
